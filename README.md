@@ -1,3 +1,10 @@
+This is the hooks react checkpoint where i used :
+-MovieCard to create a movie component
+-MovieList to create movies and display them using the MovieCard components
+-AddMovie to create an input tag that contains title,description,urlfor the poster and the rating and add the movie to the display
+-Filter create an input tag that contains title and the rating and filters the whole movie list to display the specific movie
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
